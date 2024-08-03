@@ -6,4 +6,6 @@
 
 # The OAuth Guide was created at AMEX.
 
-# The Hosed APIs Sample is an excerpt from the IGT iLottery API Integration Guide.
+# The Hosted APIs Sample is an excerpt from the IGT iLottery API Integration Guide.
+
+# The RFP sample was created at Maryland Department of Health for Medicaid projects.
